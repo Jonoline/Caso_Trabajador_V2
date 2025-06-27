@@ -1,9 +1,11 @@
 package launcher;
 
-import gui.InterfazCLI;
+import gui.MainView;
 
 public class Main {
+
     public static void main(String[] args) {
-        new InterfazCLI();
+        MainView mainView = new MainView();
+        mainView.setVisible(true);
     }
 }
