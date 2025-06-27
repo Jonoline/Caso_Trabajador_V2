@@ -26,12 +26,6 @@ El objetivo es permitir la administración de información básica de los trabaj
 
 ## Contenidos del Repositorio
 
-- **Diagrama de Clases UML**  
-  ![image1](image1)
-
-- **Archivo VPP (Visual Paradigm Project)**  
-  - [CasoTrabajador.vpp](CasoTrabajador.vpp)  
-    *Archivo fuente de los modelos UML desarrollados en Visual Paradigm, disponible en la raíz del repositorio para respaldo y revisión.*
 
 - **Código fuente Java**  
   - Implementación modular y estructurada en tres paquetes principales:
